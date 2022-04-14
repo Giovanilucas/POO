@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Ala{
-  public static void Ala(String[] args){
+  public static void Ala(string[] args){
     Scanner ler = new Scanner(System.in);
 
         System.out.println("Escolha uma opção!");
